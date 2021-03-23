@@ -11,7 +11,6 @@ $ telnet 127.0.0.1:7878
 
 Then input any words...
 
-[Here is my screen capture of the running result.] (
-https://github.com/discipleian/rustlrn/blob/main/TheRunningPic.png)
+[Here is my screen capture of the running result.](https://github.com/discipleian/rustlrn/blob/main/TheRunningPic.png)
 
 [END]
