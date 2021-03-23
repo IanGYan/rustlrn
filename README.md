@@ -7,7 +7,7 @@ Start server:
 $ Cargo run
 
 Test from client:
-$ telnet 127.0.0.1:7878
+$ telnet 127.0.0.1 7878
 
 Then input any words...
 
